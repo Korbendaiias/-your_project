@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox.desktop" open-window-count="0" score="18" last-seen="1613545518"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="6" last-seen="1613545766"/>
+    <application id="firefox.desktop" open-window-count="1" score="24" last-seen="1613546213"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="6" last-seen="1613546143"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1613545362"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="13897" last-seen="1613545728"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="13948" last-seen="1613546161"/>
   </context>
 </application-state>
