@@ -1,0 +1,16 @@
+computer_1
+23411.2
+info_1
+5
+computer_2
+17411.2
+info_2
+7
+computer_3
+23561.2
+info_3
+11
+computer_4
+2321.9
+info_4
+3

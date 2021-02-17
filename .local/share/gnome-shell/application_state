@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" open-window-count="0" score="18" last-seen="1613545518"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="6" last-seen="1613545766"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1613545362"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="13897" last-seen="1613545728"/>
+  </context>
+</application-state>
